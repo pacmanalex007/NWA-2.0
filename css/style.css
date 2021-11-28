@@ -1,6 +1,6 @@
-.nwa{
-	font-size:2em;
-	color:red;
-	background-color:black;
-	width:17.25%;
-	}
+.site-text{font-size:2em;color:red;background-color:gray;width:10%;}
+.background{background-color: black;}
+.wall-of-text{font-size:1.55em;color:white;text-align:center;width:55%;text-align:center;}
+
+hr {background: none;border: 0;clear: both;display: block;float: none;font-size: 0;padding: 0;overflow: hidden;visibility: hidden;}
+.dt{-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
